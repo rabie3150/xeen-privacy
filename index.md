@@ -6,6 +6,8 @@ XeeN Compact Labs ("we", "our", or "us") operates this mobile application (the "
 
 By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
+Your use of the Service is also governed by our [Terms of Service](https://rabie3150.github.io/xeen-privacy/terms).
+
 ## Information We Collect
 
 We may collect limited information to provide, maintain, and improve the Service.
